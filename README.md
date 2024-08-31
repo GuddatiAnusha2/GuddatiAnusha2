@@ -1,7 +1,7 @@
+ <img align="center" width=800 alt="coding" src="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzIxNjU2Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY1MTQxMzU5Mn0.t4C6MwQ40cJEkvba8LKmdcEeEiMRrTJEjBmowHAUb_g/image.jpg"
 <h1 align="center">Hi 👋, I'm Anusha Guddati</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="center" width=400 alt="coding" src="https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzIxNjU2Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY1MTQxMzU5Mn0.t4C6MwQ40cJEkvba8LKmdcEeEiMRrTJEjBmowHAUb_g/image.jpg"
-ssr 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guddatianusha2&label=Profile%20views&color=0e75b6&style=flat" alt="guddatianusha2" /> </p>
 
 - 🌱 I’m currently learning **Computer vision,LLM and Gen AI**
